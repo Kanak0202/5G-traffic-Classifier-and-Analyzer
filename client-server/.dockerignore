@@ -1,0 +1,12 @@
+# Ignore server files
+server.js
+.env
+node_modules/
+client.py
+
+# Ignore other common files
+.git
+.gitignore
+Dockerfile.Client
+Dockerfile.AllClients
+.dockerignore
